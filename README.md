@@ -8,3 +8,4 @@
 
 
 ### Dark View
+![Dark View] (https://github.com/codfjenn/Mapping_Earthquakes/blob/main/Dark%20View.png)
